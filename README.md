@@ -25,7 +25,13 @@ Set up reviews for sentiment analysis by:
   - **Textblob Lexicon** computes a *polarity score* from *-1 to 1*
   
   ## Recommendation System
-  
+  Created 4 recommender systems based on various data points:
+    - Highest Rating Model
+    - Item to Item Based Recommendation
+    - User to Item Based Recommendaiton
+    - Correlation Coefficient Recommendation
+    
+    
  
 
  
