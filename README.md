@@ -20,7 +20,12 @@ Set up reviews for sentiment analysis by:
   - Removing one letter words
   
  ## Sentiment Analysis
- 
+ Used 2 lexicons - Vader and Textblob to analyze the sentiment of reviews.
+  - **Vader Lexicon** categorizes positive and negative words by also taking into account the context of sentence to determine 4 scores from *neutrality, positivity, negativity, and compounded*. These scores are rated from *-1 to 1*. 
+  - **Textblob Lexicon** computes a *polarity score* from *-1 to 1*
+  
+  ## Recommendation System
+  
  
 
  
