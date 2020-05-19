@@ -24,12 +24,12 @@ Set up reviews for sentiment analysis by:
   - **Vader Lexicon** categorizes positive and negative words by also taking into account the context of sentence to determine 4 scores from *neutrality, positivity, negativity, and compounded*. These scores are rated from *-1 to 1*. 
   - **Textblob Lexicon** computes a *polarity score* from *-1 to 1*
   
-  ## Recommendation System
-  Created 4 recommender systems based on various data points:
-    - Highest Rating Model
-    - Item to Item Based Recommendation
-    - User to Item Based Recommendaiton
-    - Correlation Coefficient Recommendation
+ ## Recommendation System
+ Created 4 recommender systems based on various data points:
+  - **Highest Rating Model**
+  - **Item to Item Based Recommendation** is a form of collaborative filtering for recommender systems based on the similarity between items calculated using people's ratings of those items.
+  - **User to Item Based Recommendation** uses a logic to recommend items by finding similar users to the active user.
+  - **Correlation Coefficient Recommendation** through Pearson’s correlation coefficient which identifies how closely variables are related.
     
     
  
