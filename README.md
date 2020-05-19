@@ -1,4 +1,4 @@
-# Whiskey_Recommender
+# Whiskey Recommender
 Through sentiment analysis, the model empirically categorizes reviews on a positive, negative, or neutral score from -1 to 1. The model utilizes the scores to create recommendations. 
 
 
